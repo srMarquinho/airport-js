@@ -14,7 +14,7 @@ describe('FeatureTest', function() {
   it('planes can be instructed to take off', function() {
     plane.land(airport);
     plane.takeoff();
-    expect(airport.planes()).not.toContain(plane)
+    expect(airport.planes()).not.toContain(plane);
   });
 
   it('blocks takeoff when weather is stormy', function() {
