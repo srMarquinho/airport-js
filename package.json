@@ -1,0 +1,24 @@
+{
+  "name": "airport-js",
+  "version": "1.0.0",
+  "description": "Practicing Node",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-node": "^1.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srMarquinho/airport-js.git"
+  },
+  "author": "Marco Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srMarquinho/airport-js/issues"
+  },
+  "homepage": "https://github.com/srMarquinho/airport-js#readme"
+}
